@@ -41,6 +41,6 @@ dependencies {
 - error.html is error page of app, it shows if error occurs. If you redirect to online website and user has no internet this will show.
 
 ## Finishing:
-You probably edited and made html pages and styles, maybe functions too! Its ready to compile app. Run the app. Using green arrow. Congratulations you made your first android app using web development.
+You probably edited and made html pages and styles, maybe functions too! It is finally time to compile app. Run the app. Using green arrow. Congratulations you made your first android app using web development.
 
 ## Any errors? Post issue reports here.
