@@ -20,9 +20,10 @@ Features:
 - Find this piece of code and rewrite it
 
     - dependencies {
-        - compile fileTree(dir: 'libs', include: ['*.jar'])
-	    - compile 'com.android.support:support-v4:21.0.+'
+    - compile fileTree(dir: 'libs', include: ['*.jar']
+    - compile 'com.android.support:support-v4:21.0.+'
 }
+
 ### Enter src/main/ folder:
 - Replace "assets" folder to your project.
 - Replace "res" folder to your project
