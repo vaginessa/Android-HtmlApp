@@ -43,7 +43,7 @@ public class MainActivity extends Activity
 					new Thread() 
 					{
 						public void run(){
-							SystemClock.sleep(1500);
+							SystemClock.sleep(1000);
 							swipeLayout.setRefreshing(false);
 
 
